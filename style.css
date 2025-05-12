@@ -1,6 +1,7 @@
 * {
     font-family: "Poppins", sans-serif; 
     line-height: 1.4;
+    padding: 5px;
 }
 #logo {
     text-align: center;
@@ -15,8 +16,14 @@
 #client-details {
     margin-bottom: 35px;
 }
+#client-details p span {
+    font-weight: 600;
+}
 #dev-details {
     margin-bottom: 50px;
+}
+#dev-details p span {
+    font-weight: 600;
 }
 #one {
     padding-bottom: 20px;

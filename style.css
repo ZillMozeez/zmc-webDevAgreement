@@ -14,16 +14,19 @@ body {
     margin-bottom: 30px;
 }
 #client-details {
-    margin-bottom: 35px;
+    margin-bottom: 30px;
 }
 #client-details p span {
     font-weight: 600;
 }
 #dev-details {
-    margin-bottom: 50px;
+    margin-bottom: 35px;
 }
 #dev-details p span {
     font-weight: 600;
+}
+#project .project-container {
+    padding-left: 10px;
 }
 #one {
     padding-bottom: 20px;
